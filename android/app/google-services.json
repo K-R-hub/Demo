@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "520330635939",
+    "project_id": "karim-socialapp",
+    "storage_bucket": "karim-socialapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520330635939:android:54060fe5c53f89b517ed16",
+        "android_client_info": {
+          "package_name": "com.example.demo_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520330635939-ppn4t5c0pngdpiretujtd9cgups23d4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demo_1",
+            "certificate_hash": "1f6a2ce4de74f64ff6cf841025890d5b28022714"
+          }
+        },
+        {
+          "client_id": "520330635939-4r1fttdeqab5i9v0fqm55ci8rgm6mm09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7pVN41KG-Rg9TtGpoL8Rua8h_bA4Q30I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520330635939-4r1fttdeqab5i9v0fqm55ci8rgm6mm09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
